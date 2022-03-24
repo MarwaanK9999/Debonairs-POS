@@ -1,0 +1,40 @@
+c:\users\mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\bin\Debug\ISAT.exe.config
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.vbprojResolveAssemblyReference.cache
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmLogin.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmMainMenu.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.Resources.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.Point_of_Sales.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmProductInformation.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmProductQuantity.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmSalesInformation.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmSignUp.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.frmProductDetails.resources
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.vbproj.GenerateResource.Cache
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.xml
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\bin\Debug\ISAT.exe
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\bin\Debug\ISAT.pdb
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\bin\Debug\ISAT.xml
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.exe
+C:\Users\Mar'waan\documents\visual studio 2015\Projects\ISAT\ISAT\obj\Debug\ISAT.pdb
+D:\ISAT\PCP\ISAT\ISAT\bin\Debug\ISAT.exe.config
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.exe
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.xml
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.pdb
+D:\ISAT\PCP\ISAT\ISAT\bin\Debug\ISAT.exe
+D:\ISAT\PCP\ISAT\ISAT\bin\Debug\ISAT.pdb
+D:\ISAT\PCP\ISAT\ISAT\bin\Debug\ISAT.xml
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.vbprojResolveAssemblyReference.cache
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmLogin.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmMainMenu.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.Resources.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmPOS.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmProductInformation.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmProductQuantity.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmSalesInformation.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmSignUp.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.frmProductDetails.resources
+D:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.vbproj.GenerateResource.Cache
+N:\ISAT\PCP\ISAT\ISAT\bin\Debug\ISAT.exe.config
+N:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.exe
+N:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.xml
+N:\ISAT\PCP\ISAT\ISAT\obj\Debug\ISAT.pdb
